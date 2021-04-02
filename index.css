@@ -1,0 +1,8 @@
+.gallery{
+    display:grid;
+}
+
+.gallery-item{
+    height:auto;
+    width:300px;
+}
