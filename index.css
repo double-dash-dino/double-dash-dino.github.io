@@ -1,5 +1,5 @@
 .gallery{
-    display:grid;
+    display:flex;
 }
 
 .gallery-item{
